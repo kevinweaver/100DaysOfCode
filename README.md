@@ -1,9 +1,7 @@
 # 100DaysOfCode
-### I'm a fulltime Rails dev but I can always learn more.  My fulltime project isn't something I can open source which leaves my github a baren wasteland of dotfiles and failed attempts at starting fun side projects.
-### I'd like to spend at least an hour each day learning new things, following tutorials, and expanding my knowledge.
-
 ## About
-Crediting Richard Littauer and [his medium post](https://medium.com/@richlitt/100-days-of-code-5e9a4dc6d56b) as well as E. Wilson and [her medium post](https://medium.freecodecamp.com/i-took-on-the-100daysofcode-challenge-and-here-are-my-results-8e442f56d750#.o27dh9hdk) 
+I'm a fulltime Rails dev but I can always learn more.  My fulltime project isn't something I can open source which leaves my github a baren wasteland of dotfiles and failed attempts at starting fun side projects.
+I'd like to spend at least an hour each day learning new things, following tutorials, and expanding my knowledge.
 
 ## Rules
 Every day I will link to the repo, folder, file, or tutorial that I am working on.
@@ -24,17 +22,17 @@ Bootstrap & Foundation
 rspec (but stopped using)
 
 ## Tools I plan to use
-[Angular 2](https://angular.io/)
-[Angular Material](https://material.angularjs.org/latest/)
-[Jasmine](https://github.com/jasmine/jasmine) - Javascript testing
-Scaling with AWS - learn more about the structure of larger apps
+1. [Angular 2](https://angular.io/)
+2. [Angular Material](https://material.angularjs.org/latest/)
+3. [Jasmine](https://github.com/jasmine/jasmine) - Javascript testing
+4. Scaling with AWS - learn more about the structure of larger apps
 
 ## Tools I'd like to look into further first
-[Ember.js](http://emberjs.com/) - MVP Javascript framework
-[Meteor](http://docs.meteor.com/#/full/) - fullstack Javascript framework
-[Cordova](https://cordova.apache.org/) - open source PhoneGap competitor
-[Ionic](http://ionicframework.com/) - builds on Cordova, libraries for making apps more native looking
-[Nodejs](https://nodejs.org/en/) - maybe benefit from more of a backbone in node?
+1. [Meteor](http://docs.meteor.com/#/full/) - fullstack Javascript framework
+2. [Ember.js](http://emberjs.com/) - MVP Javascript framework
+3. [Cordova](https://cordova.apache.org/) - open source PhoneGap competitor
+4. [Ionic](http://ionicframework.com/) - builds on Cordova, libraries for making apps more native looking
+5. [Nodejs](https://nodejs.org/en/) - maybe benefit from more of a backbone in node?
 
 ## My Progress
 | [day 0] | [day 1] | [day 2]  |  [day 3]  |  [day 4]  |  [day 5] |
@@ -73,3 +71,6 @@ Scaling with AWS - learn more about the structure of larger apps
 
 ## Contributors
 Myself, Kevin Weaver
+
+## Credit
+Crediting Richard Littauer and [his medium post](https://medium.com/@richlitt/100-days-of-code-5e9a4dc6d56b) as well as E. Wilson and [her medium post](https://medium.freecodecamp.com/i-took-on-the-100daysofcode-challenge-and-here-are-my-results-8e442f56d750#.o27dh9hdk) 
