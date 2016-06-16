@@ -31,9 +31,17 @@ I will see how my schedule pans out and do what I can to make time whenever I ca
 ## Tools I'd like to look into further first
 1. [Meteor](http://docs.meteor.com/#/full/) - fullstack Javascript framework
 2. [Ember.js](http://emberjs.com/) - MVP Javascript framework
+3. [React.js](https://facebook.github.io/react/) - UI focused Javascript framework
+4. [Aurelia](http://aurelia.io/) - another js framework
 3. [Cordova](https://cordova.apache.org/) - open source PhoneGap competitor
 4. [Ionic](http://ionicframework.com/) - builds on Cordova, libraries for making apps more native looking
 5. [Nodejs](https://nodejs.org/en/) - maybe benefit from more of a backbone in node?
+
+## Tutorials, Material, and Courses
+1. You Dont Know JS: Scope and Closures (might consider this book?)
+2. All the Angular 2 [tutorials](https://angular.io/docs/ts/latest/quickstart.html)
+3. Angular on Rails [tutorial](https://www.angularonrails.com/angular-2-tour-heroes-tutorial-rails-backend/)
+
 
 ## My Progress
 | [day 0] | [day 1] | [day 2]  |  [day 3]  |  [day 4]  |  [day 5] |
