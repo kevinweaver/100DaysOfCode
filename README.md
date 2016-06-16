@@ -25,6 +25,7 @@ I will see how my schedule pans out and do what I can to make time whenever I ca
 1. [Angular 2](https://angular.io/)
 2. [Angular Material](https://material.angularjs.org/latest/)
 3. [Jasmine](https://github.com/jasmine/jasmine) - Javascript testing
+4. [Teaspoon](https://github.com/modeset/teaspoon) - Javascript testing for rails
 4. Scaling with AWS - learn more about the structure of larger apps
 5. More testing along the way
 
