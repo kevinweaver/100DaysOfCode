@@ -10,22 +10,23 @@ I would like to complete this within 100 days of my start date, but I am also a 
 I will see how my schedule pans out and do what I can to make time whenever I can.
 
 ## Tools I already use
-HTML & CSS
-HAML & SASS
-Javascript
-jQuery
-Rails
-Postgres & MySQL
-AWS
-bower
-Bootstrap & Foundation
-rspec (but stopped using)
+1. HTML & CSS
+2. HAML & SASS
+3. Javascript
+4. jQuery
+5. Rails
+6. Postgres & MySQL
+7. AWS
+8. bower
+9. Bootstrap & Foundation
+10. rspec (but stopped using)
 
 ## Tools I plan to use
 1. [Angular 2](https://angular.io/)
 2. [Angular Material](https://material.angularjs.org/latest/)
 3. [Jasmine](https://github.com/jasmine/jasmine) - Javascript testing
 4. Scaling with AWS - learn more about the structure of larger apps
+5. More testing along the way
 
 ## Tools I'd like to look into further first
 1. [Meteor](http://docs.meteor.com/#/full/) - fullstack Javascript framework
