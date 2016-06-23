@@ -30,6 +30,7 @@ I will see how my schedule pans out and do what I can to make time whenever I ca
 5. More testing along the way
 
 ## Tools I'd like to look into further first
+1. [TypeScript](https://www.typescriptlang.org/)
 1. [Meteor](http://docs.meteor.com/#/full/) - fullstack Javascript framework
 2. [Ember.js](http://emberjs.com/) - MVP Javascript framework
 3. [React.js](https://facebook.github.io/react/) - UI focused Javascript framework
