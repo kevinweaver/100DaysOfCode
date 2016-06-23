@@ -48,8 +48,8 @@ I will see how my schedule pans out and do what I can to make time whenever I ca
 
 | Day | Task | Progress |
 | --- |:--------:| --------:|
-| 1   | [Angular2 Tutorial](https://angular.io/docs/js/latest/quickstart.html) | 100%     |
-| 2   |||
+| 1   | [Angular2 Tutorial](https://angular.io/docs/js/latest/quickstart.html) | 100% |
+| 2   | [Angular2 Tour of Heroes Tutorial](https://angular.io/docs/ts/latest/tutorial/)| 0% |
 | 3   |||
 | 4   |||
 | 5   |||
