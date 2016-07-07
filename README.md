@@ -23,7 +23,7 @@ I will see how my schedule pans out and do what I can to make time whenever I ca
 
 ## Tools I plan to use
 1. [Angular 2](https://angular.io/)
-2. [Angular Material](https://material.angularjs.org/latest/)
+3. [React.js](https://facebook.github.io/react/) - UI focused Javascript library
 3. [Jasmine](https://github.com/jasmine/jasmine) - Javascript testing
 4. [Teaspoon](https://github.com/modeset/teaspoon) - Javascript testing for rails
 4. Scaling with AWS - learn more about the structure of larger apps
@@ -31,9 +31,9 @@ I will see how my schedule pans out and do what I can to make time whenever I ca
 
 ## Tools I'd like to look into further first
 1. [TypeScript](https://www.typescriptlang.org/)
+2. [Angular Material](https://material.angularjs.org/latest/)
 1. [Meteor](http://docs.meteor.com/#/full/) - fullstack Javascript framework
 2. [Ember.js](http://emberjs.com/) - MVP Javascript framework
-3. [React.js](https://facebook.github.io/react/) - UI focused Javascript framework
 4. [Aurelia](http://aurelia.io/) - another js framework
 3. [Cordova](https://cordova.apache.org/) - open source PhoneGap competitor
 4. [Ionic](http://ionicframework.com/) - builds on Cordova, libraries for making apps more native looking
@@ -47,11 +47,11 @@ I will see how my schedule pans out and do what I can to make time whenever I ca
 
 ## My Progress
 
-| Day | Task | Progress |
-| --- |:--------:| --------:|
-| 1   | [Angular2 Tutorial](https://angular.io/docs/js/latest/quickstart.html) | 100% |
-| 2   | [Angular2 Tour of Heroes Tutorial](https://angular.io/docs/ts/latest/tutorial/)| 20% |
-| 3   |||
+| Day | Task | Progress | Thoughts |
+| --- |:--------:| --------:|-----------------------|
+| 1   | [Angular2 Tutorial](https://angular.io/docs/js/latest/quickstart.html) | 100% | Pretty different from what I remember of Angular 1 |
+| 2   | [Angular2 Tour of Heroes Tutorial: Part 1](https://angular.io/docs/ts/latest/tutorial/)| 10% | Still preliminary stuff |
+| 3   | [Angular2 Tour of Heroes Tutorial: Part 2+3](https://angular.io/docs/ts/latest/tutorial/toh-pt2.html)| 30% | I likely won't use angular with EMS Heroes, but React is looking like a good option for it. |
 | 4   |||
 | 5   |||
 | 6   |||
