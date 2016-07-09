@@ -52,7 +52,7 @@ I will see how my schedule pans out and do what I can to make time whenever I ca
 | 1   | [Angular2 Tutorial](https://angular.io/docs/js/latest/quickstart.html) | 100% | Pretty different from what I remember of Angular 1 |
 | 2   | [Angular2 Tour of Heroes Tutorial: Part 1](https://angular.io/docs/ts/latest/tutorial/)| 10% | Still preliminary stuff |
 | 3   | [Angular2 Tour of Heroes Tutorial: Part 2+3](https://angular.io/docs/ts/latest/tutorial/toh-pt2.html)| 30% | I likely won't use angular with EMS Heroes, but React is looking like a good option for it. |
-| 4   |||
+| 4   | [Angular2 Tour of Heroes Tutorial: Part 4+5](https://angular.io/docs/ts/latest/tutorial/toh-pt3.html)| 30% | Once I'm done this, I'll do another couple tutorials.  Then, the rails + angular one.  Then I'll throw together a basic birdsign app. |
 | 5   |||
 | 6   |||
 | 7   |||
