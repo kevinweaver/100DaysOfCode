@@ -43,6 +43,8 @@ I will see how my schedule pans out and do what I can to make time whenever I ca
 1. You Dont Know JS: Scope and Closures (might consider this book?)
 2. All the Angular 2 [tutorials](https://angular.io/docs/ts/latest/quickstart.html)
 3. Angular on Rails [tutorial](https://www.angularonrails.com/angular-2-tour-heroes-tutorial-rails-backend/)
+4. React Getting Started [tutorial](https://facebook.github.io/react/docs/getting-started.html)
+5. React and Redux [tutorial](http://cabin.getstream.io/)
 
 
 ## My Progress
