@@ -2,39 +2,36 @@
 ## About
 I'm a fulltime Rails dev but I can always learn more.  My fulltime project isn't something I can open source which leaves my github a baren wasteland of dotfiles and failed attempts at starting fun side projects.
 I'd like to spend at least an hour each day learning new things, following tutorials, and expanding my knowledge.
+*EDIT*
+A significant portion of time has passed.  I've gotten a new job at Stitch Fix and my focuses and goals have shifted.
+After the hiatus, I am now not sure if the 100 days format and repo is still the direction I want to go, but I will keep my thoughts organized here for now.
 
 ## Rules
 Every day I will link to the repo, folder, file, or tutorial that I am working on.
-I will likely try to keep any micro learning projects inside this repo, unless it is big enough to merit its own repo.
-I would like to complete this within 100 days of my start date, but I am also a busy person and I don't want to half-ass it.  If I legitimately don't have time one or two nights a week, I'm not going to pretend I did something.
+I will likely create new repos for each major aspect, and point to them in this list.
 I will see how my schedule pans out and do what I can to make time whenever I can.
 
-## Tools I already use
-1. HTML & CSS
-2. HAML & SASS
-3. Javascript
-4. jQuery
-5. Rails
-6. Postgres & MySQL
-7. AWS
-8. bower
-9. Bootstrap & Foundation
-10. rspec (but stopped using)
+## Tools I want to play with more
+### Frontend
+1. [React.js](https://facebook.github.io/react/) - UI focused Javascript library
+2. [Jest] (https://facebook.github.io/jest/) - React/JS Testing
+1. [Redux]() - State management library
+1. [React Router]() - Router for react
+1. [React Motion]() - Animation library
+1. [Immutable js]() - Immutable objects in js
+1. [Elm]() - 
 
-## Tools I plan to use
-1. [Angular 2](https://angular.io/)
-3. [React.js](https://facebook.github.io/react/) - UI focused Javascript library
-3. [Jasmine](https://github.com/jasmine/jasmine) - Javascript testing
-4. [Teaspoon](https://github.com/modeset/teaspoon) - Javascript testing for rails
-4. Scaling with AWS - learn more about the structure of larger apps
-5. More testing along the way
+### Backend
+2. [Go]() - The language B)
+2. [Docker]() - Container management
+2. [Kubernetes]() - Container orchestartion
 
-## Tools I'd like to look into further first
-1. [TypeScript](https://www.typescriptlang.org/)
-2. [Angular Material](https://material.angularjs.org/latest/)
-1. [Meteor](http://docs.meteor.com/#/full/) - fullstack Javascript framework
-2. [Ember.js](http://emberjs.com/) - MVP Javascript framework
-4. [Aurelia](http://aurelia.io/) - another js framework
+### Tools
+1. [Google::Cloud::Language]() - NLP API
+1. [Alexa Skills Kit]() - Amazon Alexa voice library
+1. [ActionCable]() - Rails websockets
+
+## Tools I'd like to research further first
 3. [Cordova](https://cordova.apache.org/) - open source PhoneGap competitor
 4. [Ionic](http://ionicframework.com/) - builds on Cordova, libraries for making apps more native looking
 5. [Nodejs](https://nodejs.org/en/) - maybe benefit from more of a backbone in node?
@@ -56,7 +53,7 @@ I will see how my schedule pans out and do what I can to make time whenever I ca
 | 3   | [Angular2 Tour of Heroes Tutorial: Part 2+3](https://angular.io/docs/ts/latest/tutorial/toh-pt2.html)| 30% | I likely won't use angular with EMS Heroes, but React is looking like a good option for it. |
 | 4   | [Angular2 Tour of Heroes Tutorial: Part 4+5](https://angular.io/docs/ts/latest/tutorial/toh-pt3.html)| 30% | Once I'm done this, I'll do another couple angular tutorials.  Then, the rails + angular one.  Then I'll throw together a basic birdsign app. |
 | 5   | [Angular2 Tour of Heroes Tutorial: Part 4+5](https://angular.io/docs/ts/latest/tutorial/toh-pt5.html)| 50% | Working on routing.  Angular is powerful... One more day should finish this tutorial.|
-| 6   |||
+| 6   | [React] | 0% |
 | 7   |||
 | 8   |||
 | 9   |||
